@@ -1,0 +1,2 @@
+El motor stepper va conectado al PORTD del esclavo 2, PD2-PD5 y se usa el PWM1 para el servo.
+El motor DC, IN1 va a PORTC, A1 e IN2 va a A2, se usa el PWM0 para controlar la velocidada del mootor.
