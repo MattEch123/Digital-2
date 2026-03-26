@@ -1,0 +1,16 @@
+../Core/Src/main.c:172:6:play_note	16	static
+../Core/Src/main.c:187:6:play_melody	32	static
+../Core/Src/main.c:201:6:generarSin	16	static
+../Core/Src/main.c:207:5:calcularARR	24	static
+../Core/Src/main.c:219:6:noTone	4	static
+../Core/Src/main.c:224:6:playTone	48	static
+../Core/Src/main.c:262:5:main	24	static
+../Core/Src/main.c:363:6:SystemClock_Config	88	static
+../Core/Src/main.c:411:13:MX_DAC_Init	16	static
+../Core/Src/main.c:451:13:MX_TIM1_Init	96	static
+../Core/Src/main.c:526:13:MX_TIM6_Init	16	static
+../Core/Src/main.c:564:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:595:13:MX_DMA_Init	16	static
+../Core/Src/main.c:616:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:643:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:658:6:Error_Handler	4	static,ignoring_inline_asm
